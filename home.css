@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
+}
+
+#main-h1 {
+    background-color: whitesmoke;
+}
+
+.Img {
+    text-align: center;
+    background-image: url("/static/lovers.avif");
+    width: 500px;
+    height: 500px;
+    margin-left: 180px;
+    margin-top: 92px;
+    display: inline-block;
+}
+
+.main-content {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin-top: 10px;
+    margin-left: 60px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+
+#nextpage a{
+    margin-left: 1400px;
+    margin-top: 10px;
+    color: wheat;
+    font-size: 20px;
+    height: 60px;
+    width: 60px;
+    border-radius: 90px;
+    font-weight: 800;
+    /* background-color: purple; */
+}
