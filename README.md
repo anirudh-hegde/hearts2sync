@@ -1,6 +1,14 @@
 # hearts2sync
 
-This website calculates the percentage wheteher your name and your crush's name to see the chance that this relationship will workout.
+## Intro
+This is a website that calculates the percentage wheteher your name and your crush's name to see the chance that this relationship will workout.
+The website is implemented using html, css and javascript.
+
+## Tech stacks
+* VS-Code
+* Html
+* Css
+* Javascript
 
 Link:
 https://anirudh-hegde.github.io/hearts2sync/
