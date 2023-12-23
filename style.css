@@ -1,9 +1,11 @@
 body {
     font-family: Italic, Helvetica, sans-serif;
     text-align: center;
-    background-image: url("/static/love3.jpg");
+    /* background-image: url("/static/love3.jpg"); */
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: black;
+
 }
 
 #content-box {
