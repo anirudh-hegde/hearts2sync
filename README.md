@@ -10,5 +10,10 @@ The website is implemented using html, css and javascript.
 * Css
 * Javascript
 
+## Conclusion
+Feel free to explore and alter source code.
+
+Happy Hacking 🚀
+
 Link:
 https://anirudh-hegde.github.io/hearts2sync/
